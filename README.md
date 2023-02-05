@@ -1,5 +1,6 @@
+# docs
 
-	://www.hiroom2.com/2016/09/03/makefile-header-dependencies/
+- https://www.hiroom2.com/2016/09/03/makefile-header-dependencies/
 - https://blog.diogomonica.com//2017/03/27/why-you-shouldnt-use-env-variables-for-secret-data/ 
 - https://12factor.net/
 - https://www.quora.com/What-book-is-recommended-for-complete-Linux-learning - Quora books to learn linux
@@ -25,4 +26,4 @@
 -----------------------------------------------------------------------------------------------------------------------------
 
 ### [LINUX KERNEL]
-- https://developer.ibm.com/articles/l-linux-kernel/?mhsrc=ibmsearch_a&mhq=linux%20kernel%20emset(res, 0, sizeof(res));
+- https://developer.ibm.com/articles/l-linux-kernel/?mhsrc=ibmsearch_a&mhq=linux%20kernel%20
