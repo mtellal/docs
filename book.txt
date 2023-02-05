@@ -1,0 +1,13 @@
+https://lwn.net/Kernel/LDD3/
+
+https://github.com/msambol/coding-interview-university - Docs interview
+
+https://github.com/msambol/youtube/tree/master/trees - trees RBT
+
+https://github.com/ldfaiztt/CSE351/blob/master/Computer%20Systems%20-%20A%20Programmer's%20Perspective.pdf - programmer perspective
+
+https://github.com/yanzhizhang/CSC_369/blob/master/Modern%20Operating%20Systems%20-%204th%20Edition.pdf - modern operating system 
+
+https://www.quora.com/What-is-a-list-of-books-that-should-be-read-by-a-programmer - List of books Quora
+
+https://ebookfoundation.github.io/free-programming-books-search/?&sect=books&file=free-programming-books-subjects.md -- Lists of books by topic 
